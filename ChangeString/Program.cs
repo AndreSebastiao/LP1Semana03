@@ -26,6 +26,7 @@ namespace ChangeString
                     output += character;
                 }
             }
+            //Output result
             Console.WriteLine(output);
         }
     }
